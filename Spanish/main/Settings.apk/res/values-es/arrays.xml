@@ -108,6 +108,21 @@
         <item>Combinar</item>
         <item>Separar</item>
     </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Mostrar solo en la pantalla de bloqueo</item>
+        <item>Mostrar solo en la barra de estado</item>
+        <item>Nunca mostrar el nombre del operador</item>
+    </string-array>
+    <string-array name="check_importance_entries">
+        <item>Recomendado</item>
+        <item>Importante</item>
+        <item>Sin importancia</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>MIUI decidirá qué notificaciones deberían aparecer directamente</item>
+        <item>Las notificaciones aparecerán en el panel de notificación</item>
+        <item>Las notificaciones aparecerán en una carpeta separada</item>
+    </string-array>
     <string-array name="entries_font_size">
         <item>Pequeña</item>
         <item>Predeterminado</item>
@@ -153,6 +168,14 @@
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Inmediatamente</item>
+        <item>Después de 30 segundos</item>
+        <item>Después de 1 minuto</item>
+        <item>Después de 2 minutos</item>
+        <item>Después de 5 minutos</item>
+        <item>Nunca</item>
+    </string-array>	
     <string-array name="fluency_mode_entries">
         <item>Ocultar animaciones del sistema</item>
         <item>Mostrar animaciones del sistema</item>
@@ -289,12 +312,6 @@
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="mvno_type_entries">
-        <item>Ninguno</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Dispositivo de almacenamiento interno</item>
@@ -791,17 +808,16 @@
         <item>TEMPLADO</item>
         <item>FRÍO</item>
     </string-array>
+    <string-array name="vip_mode_text">
+        <item>De cualquier persona</item>
+        <item>Solo de contactos</item>
+        <item>Solo de contactos destacados</item>
+        <item>Ninguna</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 pulgadas</item>
         <item>4,0 pulgadas</item>
         <item>3,5 pulgadas</item>
-    </string-array>
-    <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Después de 30 segundos</item>
-        <item>Después de 1 minuto</item>
-        <item>Después de 2 minutos</item>
-        <item>Después de 5 minutos</item>
-        <item>Nunca</item>
     </string-array>
     <string-array name="screen_resolution_entries">
         <item>Ultra alta (2K)</item>
@@ -829,13 +845,6 @@
         <item>Botón de menú a la izquierda, botón de volver a la derecha</item>
         <item>Botón de volver a la izquierda, botón de menú a la derecha</item>
     </string-array>
-    <string-array name="privacy_password_function_specfication_names">
-        <item>Mensajes</item>
-        <item>Fotos</item>
-        <item>Archivos</item>
-        <item>Notas</item>
-        <item>Modo niño</item>
-    </string-array>
     <string-array name="max_number_titles">
         <item>6</item>
         <item>5</item>
@@ -849,5 +858,13 @@
         <item>Menor retraso</item>
         <item>Estandard</item>
         <item>Mejor Calidad</item>
+    </string-array>
+	 <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Batería</item>
+        <item>Cámara trasera</item>
+        <item>Tamaño de pantalla</item>
+        <item>Resolución</item>
+        <item>Versión de Android</item>
     </string-array>
 </resources>

@@ -55,9 +55,11 @@
   <string name="feedback_choose_module">Seleccione elemento</string>
   <string name="feedback_choose_module_hint">Requerido</string>
   <string name="feedback_collect_log_failed">Fallo al obtener los registros</string>
+  <string name="feedback_contact_info_hint">Número de teléfono/Correo electrónico</string>
   <string name="feedback_continue">Continuar con el feedback</string>
   <string name="feedback_description">Descripción</string>
   <string name="feedback_description_bugreport_hint">En algunos casos (…) mi teléfono tiene fallos (…).</string>
+  <string name="feedback_description_hint">"Describe el problema que has encontrado"</string>
   <string name="feedback_description_label">Descripción</string>
   <string name="feedback_description_suggest_hint">Me gustaría añadir una nueva función () porque necesito ().</string>
   <string name="feedback_detail_tile">Progreso</string>
@@ -223,7 +225,7 @@
   <string name="packaging_dialog_content">Creando informe…</string>
   <string name="permission_granted">%1$s permiso concedido</string>
   <string name="pic_not_exist">Esta imagen no existe</string>
-  <string name="plus_one_submit_dialog_content">Su comentario, junto con los registros de error, serán enviados a los servidores de Mi.</string>
+  <string name="plus_one_submit_dialog_content">Su comentario, junto con los registros de error, serán enviados a los servidores de Mi. Podría contener información personal.</string>
   <string name="plus_one_submit_dialog_not_show_again">Recordar preferencia</string>
   <string name="post_miui_bbs_failed">No se pudo publicar en MIUI Forum</string>
   <string name="pull_to_refresh_pull_label">Deslice hacia abajo para refrescar</string>

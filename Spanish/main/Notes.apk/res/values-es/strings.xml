@@ -94,7 +94,6 @@
   <string name="menu_unhide">Mostrar</string>
   <string name="menu_unmark_privacy">Mostrar</string>
   <string name="menu_unstick">Desanclar</string>
-  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ahora no</string>
   <string name="note_alert_expired">Expirado</string>
   <string name="note_link_email">Redactar email</string>
@@ -195,5 +194,5 @@
  - Sincronizar con Mi Cloud
  - Establecer recordatorios"</string>
   <string name="widget_content_loading">Un segundo…</string>
-  <string name="widget_havenot_content">Pulse para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
+  <string name="widget_havenot_content">Toque para crear una nota. Mantenga presionado el widget para cambiar el tamaño.</string>
 </resources>

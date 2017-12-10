@@ -24,7 +24,7 @@
   <string name="convertion_unit_time">Conversor de tiempo</string>
   <string name="convertion_unit_velocity">Conversor de velocidades</string>
   <string name="convertion_unit_volume">Conversor de volúmenes</string>
-  <string name="convertion_unit_weight">Conversor de pesos</string>
+  <string name="convertion_unit_weight">Conversor de masas</string>
   <string name="cos">cos</string>
   <string name="cosDesc">coseno</string>
   <string name="currency_update_time_format">Los tipos de cambio son proporcionados por Webull (%s)</string>
@@ -62,6 +62,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilómetros por hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="global_network_confirm_content">Los cálculos de conversión de moneda necesitan usar la conexión de red de su dispositivo para trabajar normalmente.</string>
   <string name="global_search_key_area_convertion">Área;Conversor de área;Conversión de área</string>
   <string name="global_search_key_calculation">Calculadora;Conversión de unidades;Convertidor;Convertidor de unidades</string>
   <string name="global_search_key_date_convertion">Conversor de tiempo;Unidades de tiempo;iempo de conversión;Tiempo</string>
@@ -409,11 +410,8 @@
   <string name="word_figure_unit_bai">佰</string>
   <string name="word_figure_unit_qian">仟</string>
   <string name="word_figure_unit_shi">拾</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Error al conectarse al Administrador de Descargas, compruebe el estado del Administrador de Descargas en el Administrador de Aplicaciones.</string>
   <string name="xiaomi_external_storage_unavailable">El almacenamiento no está disponible, compruebe la tarjeta SD..</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Actualizando a la versión %1$s
   Tamaño: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Actualizando a la versión %1$s

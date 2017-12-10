@@ -183,7 +183,7 @@
   <string name="convert_to_fbe_warning">"Convertir la partición de datos en cifrado basado en archivos.
  ¡¡Advertencia!! Esto borrará todos sus datos.
  Esta función es alfa y puede no funcionar correctamente.
- Pulse 'Limpiar y convertir…' para continuar."</string>
+ Toque 'Limpiar y convertir…' para continuar."</string>
   <string name="convert_to_file_encryption">Convertir en cifrado de archivos</string>
   <string name="convert_to_file_encryption_done">Ya está encriptado</string>
   <string name="convert_to_file_encryption_enabled">Convertir…</string>
@@ -219,6 +219,8 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="debug_view_attributes">Activar inspección de atributos de vista</string>
   <string name="description_direction_left">Desliza a la izquierda para %s.</string>
   <string name="description_direction_up">Deslizar arriba para %s.</string>
+  <string name="description_image_button_answer">Responder</string>
+  <string name="description_image_button_reject">Cancelar</string>
   <string name="description_target_search">Buscar</string>
   <string name="dev_settings_warning_message">Estos ajustes están diseñados para uso exclusivo del desarrollo. Pueden hacer que su dispositivo y las aplicaciones en él se rompan o se comporten mal.</string>
   <string name="dev_settings_warning_title">¿Permitir configuración de desarrollo?</string>
@@ -308,7 +310,7 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="long_screenshot_processing">Procesando…</string>
   <string name="long_screenshot_stop">Ok</string>
   <string name="long_screenshot_top_msg">Creando captura de pantalla…</string>
-  <string name="long_screenshot_top_msg_manual">Recortar la captura de pantalla y pulse el botón para terminar</string>
+  <string name="long_screenshot_top_msg_manual">Recortar la captura de pantalla y toque el botón para terminar</string>
   <string name="managed_profile_foreground_toast">Estás usando el perfil de trabajo</string>
   <string name="managed_user_title">Todas las aplicaciones de trabajo</string>
   <string name="mdb_entering">Iniciando…</string>
@@ -333,7 +335,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="nav_guide_message">Usa gestos para ocultar/mostrar botones de función.</string>
   <string name="nav_guide_ok">Establecer</string>
   <string name="nav_guide_title">Ocultar botones programables</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Nada</string>
   <string name="no_multi_window_app">No hay aplicaciones que soporten pantalla Dividida</string>
   <string name="no_notification_tips">No hay notificaciones.</string>
@@ -375,15 +376,10 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
   <string name="pointer_location">Posición del puntero</string>
   <string name="pointer_location_summary">Superposición de pantalla que muestra los datos de toque actuales</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s hasta que se llene</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s hasta que se llene a través de  AC</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
+  <string name="power_charging_duration_ac">%1$s - %2$s hasta que se llene a través de AC</string>
   <string name="power_charging_duration_usb">%1$s - %2$s hasta que se llene a través de USB</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s hasta que se llene a través de inalámbrico</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - aprox. %2$s restante</string>
   <string name="power_discharging_duration_short">%1$s - %2$s restante</string>
   <string name="power_remaining_duration_only">Aprox. %1$s restante</string>
@@ -398,10 +394,18 @@ Puede que tu operador te cobre por volver a activar datos."</string>
   <string name="quick_settings_wifi_detail_empty_text">No hay redes WI-FI disponibles</string>
   <string name="quick_settings_wifi_label">WI-FI</string>
   <string name="quick_settings_wifi_nearby">Seleccione una red</string>
+  <string name="recents_app_info_button_label">Información de la aplicación</string>
+  <string name="recent_dock_tip">Toca para seleccionar aplicaciones</string>
   <string name="recent_task_app_info_text">Info.</string>
   <string name="recent_task_cleaning">Limpiando aplicaciones…</string>
   <string name="recent_task_lock_text">Bloq.</string>
   <string name="recent_task_unlock_text">Desb.</string>
+  <string name="recents_caption_resize">Seleccione el nuevo diseño de tareas</string>
+  <string name="recents_drag_hint_message">Arrastre los elementos aquí</string>
+  <string name="recents_empty_message">No hay temas recientes</string>
+  <string name="recents_empty_message_dismissed_all">Has eliminado todos los elementos</string>
+  <string name="recents_empty_message_multi_window">Ir a Inicio para abrir aplicaciones</string>
+  <string name="recents_exit_multi_window_mode">Salir</string>
   <string name="recents_launch_error_message">%s no se pudo iniciar.</string>
   <string name="reject_call">Rechazando llamada</string>
   <string name="remaining_length_format">%1$s restante</string>
@@ -469,7 +473,6 @@ Puede que tu operador te cobre por volver a activar datos."</string>
  d \'de\' MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
  d \'de\' MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s   "</string>
@@ -490,7 +493,6 @@ Desliza hacia abajo para bloquear"</string>
   <string name="status_bar_safepay_scanning">Comprobación de entorno de pago…</string>
   <string name="status_bar_safepay_unknown">"No se pudo comprobar entorno de pago"</string>
   <string name="status_bar_settings_airplane">Modo avión</string>
-  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sin conexión a Internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
   <string name="status_bar_style_settings">Notificaciones</string>
@@ -581,7 +583,6 @@ Desliza hacia abajo para bloquear"</string>
   <string name="vpn_title">VPN activado</string>
   <string name="wait_for_debugger">Espere a depurador</string>
   <string name="wait_for_debugger_summary">La aplicación depurada espera que el depurador se adjunte antes de ejecutar</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Actualizado %1$s</string>
   <string name="wifi_aggressive_handover">Wi-fi agresivo a la entrega móvil</string>
   <string name="wifi_aggressive_handover_summary">Cuando está activado, el Wi-Fi será más agresivo en la entrega de la conexión de datos a móvil, cuando la señal Wi-Fi es baja</string>

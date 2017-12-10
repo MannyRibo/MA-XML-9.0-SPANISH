@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="auto_clean_time">		
+        <item>Cada día</item>		
+        <item>Cada 3 días</item>		
+        <item>Cada 7 días</item>		
+        <item>Cada 15 días</item>		
+    </string-array>
     <string-array name="cache_sort_type">
         <item>Tamaño</item>
         <item>Nombre</item>
@@ -12,11 +18,6 @@
         <item>Más utilizadas</item>
         <item>Tamaño</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>Cada día</item>
-        <item>Cada 3 días</item>
-        <item>Cada 7 días</item>
-    </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
         <item>300 MB</item>
@@ -24,9 +25,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Sólo notificar</item>
-        <item>Borrar automáticamente</item>
-        <item>Borrar y notificar</item>
+        <item>Notificar</item>
+        <item>Limpiar</item>
+        <item>Limpiar y notificar</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Limpiar este archivo</item>

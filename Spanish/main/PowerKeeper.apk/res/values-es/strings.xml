@@ -74,6 +74,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="notify_app_consume_abnormal_title">está drenando la batería</string>
   <string name="operation_create_group">Nombre</string>
   <string name="operation_create_group_message">Introduzca nuevo nombre de grupo</string>
+  <string name="power_center">Batería</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se ejecuta anormalmente</string>
   <string name="power_checker_background_cpu_title">%1$s se ejecuta anormalmente</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s obtiene la información de ubicación frecuentemente</string>
@@ -126,7 +127,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
   <string name="power_config_mode_title">Modos de ahorro de energía</string>
   <string name="power_config_phone_charging_title">Cargando</string>
   <string name="power_config_phone_idle_title">Inactivo</string>
-  <string name="power_config_select_apps_empty">Pulse para seleccionar aplicaciones</string>
+  <string name="power_config_select_apps_empty">Toque para seleccionar aplicaciones</string>
   <string name="power_config_select_apps_title">Aplicaciones</string>
   <string name="power_config_title">Ajustes</string>
   <string name="power_config_ultimate_description">MIUI congelará todas las aplicaciones en segundo plano</string>

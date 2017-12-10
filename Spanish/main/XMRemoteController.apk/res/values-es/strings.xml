@@ -23,7 +23,7 @@
   <string name="ac_mode_dry">Deshumidificar</string>
   <string name="ac_mode_fan">Dirección</string>
   <string name="ac_mode_hot">Calefacción</string>
-  <string name="ac_set_timer_title_text">Seleccione la hora y pulse el botón de temporización en el Aire Acondicionado</string>
+  <string name="ac_set_timer_title_text">Seleccione la hora y toque el botón de temporización en el Aire Acondicionado</string>
   <string name="activity_stb_list_title">Elegir decodificador</string>
   <string name="actor_intro_title_text">Emitir</string>
   <string name="add">Añadir</string>
@@ -94,7 +94,6 @@
   <string name="app_rate">Cualificación: %1$s</string>
   <string name="app_search_hint">Por favor escriba en nombre de la aplicación</string>
   <string name="app_search_title_mishop">Encontradas %d aplicaciones en Mi Store</string>
-  <string name="app_search_title_thirdpatry">Encontradas %d aplicaciones a terceros</string>
   <string name="app_size">Tamaño: %1$s</string>
   <string name="app_sort">Ordenar</string>
   <string name="app_uninstall">Desinstalar</string>
@@ -165,11 +164,10 @@ Intente lo siguiente para solucionar el problema:
   <string name="channel_catogory_name">Canales</string>
   <string name="channel_list">Lista de canales</string>
   <string name="channel_removed_from_fav">%1$s eliminado de favoritos</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Comprobar actualizaciones</string>
   <string name="choose_ac">Elegir control remoto</string>
   <string name="choose_address_title">Seleccionar ubicación</string>
-  <string name="choose_key_to_fix">Pulse la tecla a reparar</string>
+  <string name="choose_key_to_fix">Toque la tecla a reparar</string>
   <string name="circlepad_slide_tips">Utilice la rueda táctil para ajustar el volumen</string>
   <string name="click_to_expend">Expandir</string>
   <string name="click_to_login">Identifíquese</string>
@@ -301,7 +299,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="epg_not_booked_program_time_left">Programado (Tiempo restante %1$s)</string>
   <string name="epg_program_comment">Escribir un comentario</string>
   <string name="epg_program_detail_more_time_events">Más eventos</string>
-  <string name="epg_program_share">Share %1$s</string>
+  <string name="epg_program_share">Compartir %1$s</string>
   <string name="epg_program_share_drama">Ver %3$s %1$s canal, tiempo de emisión:.%2$s comentarios, predicen el desarrollo del episodio, en Mi Remote</string>
   <string name="epg_program_share_game">Ver: %3$s Canal: %1$s, A las:%2$s.</string>
   <string name="epg_program_updated_to">Programa establecido a: %1$d</string>
@@ -343,7 +341,7 @@ Intente lo siguiente para solucionar el problema:
   <string name="feedback_desc_hint">Describa el problema</string>
   <string name="feedback_error">Notificar error</string>
   <string name="feedback_error_success_tip">Enviado con éxito</string>
-  <string name="feedback_error_tips">Hay problemas con este control remoto, pulse para notificar un problema</string>
+  <string name="feedback_error_tips">Hay problemas con este control remoto, toque para notificar un problema</string>
   <string name="feedback_input_desc">Describa el problema aquí.</string>
   <string name="feedback_issue_desc">Describa el problema</string>
   <string name="feedback_keys">Comentarios</string>
@@ -358,8 +356,8 @@ Intente lo siguiente para solucionar el problema:
   <string name="gamepad">Teclado para jugar</string>
   <string name="gamepad_rule">No se puede utilizar la orientación horizontal en el modo Gamepad</string>
   <string name="gesture_pad_first_line_tips">Utilice los botones de volumen en el dispositivo para ajustar el volumen</string>
-  <string name="gesture_pad_orietaion_tips">Deslice para moverse en cualquier dirección. Pulse para confirmar.</string>
-  <string name="gesture_pad_sencond_line_tips">· Pulse y mantenga pulsada el área central de la pantalla para ver el menú. Deslice hacia arriba o hacia abajo para ajustar el volumen.</string>
+  <string name="gesture_pad_orietaion_tips">Deslice para moverse en cualquier dirección. Toque para confirmar.</string>
+  <string name="gesture_pad_sencond_line_tips">· Toque y mantenga pulsada el área central de la pantalla para ver el menú. Deslice hacia arriba o hacia abajo para ajustar el volumen.</string>
   <string name="gesture_pad_vol_tips">Utilice los botones de volumen del teléfono para ajustar el volumen en el dispositivo conectado</string>
   <string name="get_backup_failed">No se pudo arreglar,inténtelo de nuevo</string>
   <string name="get_backup_succeed">Restaurado con éxito. Total: %1$d | Actual: %2$d| Restaurados: %3$d</string>
@@ -488,9 +486,9 @@ Vuelva atrás para continuar"</string>
   <string name="match_guide_sub_frame">Emparejados %1$d botones</string>
   <string name="match_intro_power">Suelte cuando el dispositivo se encienda</string>
   <string name="match_is_respond">¿Responde el dispositivo?</string>
-  <string name="match_main_tip_frame">"Apunte el control remoto a %1$s y pulse el botón
+  <string name="match_main_tip_frame">"Apunte el control remoto a %1$s y toque el botón
 Suelte el botón cuando %1$s responda"</string>
-  <string name="match_main_tip_frame_click">Apunte el control remoto hacia %1$s y pulse el botón.
+  <string name="match_main_tip_frame_click">Apunte el control remoto hacia %1$s y toque el botón.
 Asegúrese que %1$s responde</string>
   <string name="match_mibox_first">     Mi TV encontrada</string>
   <string name="match_mibox_sencond">   · Controle su Mi TV con este dispositivo.</string>
@@ -1003,7 +1001,6 @@ link enviado a su correo electrónico.</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Error al iniciar la aplicación</string>
   <string name="time_error">Parece que la hora es errónea</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Temporizador</string>
   <string name="timer_turn_off">Desactivar temporizador</string>
   <string name="timer_turn_on">Activar temporizador</string>
@@ -1037,9 +1034,7 @@ link enviado a su correo electrónico.</string>
   <string name="updated_at">Última actualización: hace %1$s</string>
   <string name="updated_just_now">Actualizado ahora mismo</string>
   <string name="upgrade_already_latest">No hay actualizaciones disponibles</string>
-  <string name="upgrade_current_version">Versión actual %1$s</string>
   <string name="upgrade_download">Descargar aplicación</string>
-  <string name="upgrade_found_new_version">Actualización disponible (%1$s)</string>
   <string name="upgrade_later">Más tarde</string>
   <string name="upgrade_loading">Descargando…</string>
   <string name="upgrade_log">Qué novedades hay</string>

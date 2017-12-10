@@ -15,8 +15,8 @@
   <string name="add_slide">Agregar diapositiva (después)</string>
   <string name="add_slide_before">Agregar diapositiva de introducción</string>
   <string name="add_slide_hint">Toque para crear una nueva diapositiva</string>
-  <string name="add_smiley">Emoticono</string>
-  <string name="add_timing">Temporizado</string>
+  <string name="add_smiley">Emoticón</string>
+  <string name="add_timing">Programado</string>
   <string name="add_to_browser_favorite_failed">No se pudo añadir</string>
   <string name="add_to_browser_favorite_success">Agregado con éxito</string>
   <string name="add_video">Añadir vídeo</string>
@@ -144,7 +144,7 @@
   <string name="duration_sec">Duración (%s seg)</string>
   <string name="duration_selector_title">Duración de la diapositiva</string>
   <string name="duration_zero">La duración debe ser mayor que 0 segundos</string>
-  <string name="earlier">Más temprano</string>
+  <string name="earlier">Anterior</string>
   <string name="edit">Editar</string>
   <string name="edit_phrase">Editar respuestas rápidas</string>
   <string name="edit_slide_activity">Editar diapositivas</string>
@@ -180,7 +180,6 @@
   <string name="file_size">Tamaño:</string>
   <string name="file_title">Nombre:</string>
   <string name="file_width_height">Tamaño:</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Nuevo mensaje</string>
   <string name="forward_from">Reenviar desde:</string>
   <string name="forward_prefix">"Fwd: "</string>
@@ -342,8 +341,6 @@
   <string name="mx_type_guide">Enviar y recibir mensajes sin coste con personas que usan esta característica</string>
   <string name="need_download">Sincronizando…</string>
   <string name="networking_allow_continue">Aceptar</string>
-  <string name="networking_allow_desc">Mensajes inteligentes le permite enviar mensajes de texto y voz gratuitos, reconocer números desconocidos, filtrar correo no deseado, etc. Mediante el uso de este servicio, usted se compromete y está de acuerdo con los %1$s y %2$s de Xiaomi. Debes ahora activar las Páginas Amarillas y conectarse a Internet para utilizar este servicio.</string>
-  <string name="networking_allow_desc_without_mx">La mensajería inteligente le permiten identificar los números desconocidos, filtro de spam etc. Al usar este servicio, acepta los %1$s y %2$s de Xiaomi. Debes activar la aplicación Páginas amarillas y tener acceso a Internet para hacer uso de este servicio.</string>
   <string name="networking_allow_title">Aviso</string>
   <string name="new_message">Nuevo mensaje</string>
   <string name="new_message_arrived">Tienes un mensaje nuevo</string>
@@ -476,7 +473,7 @@
   <string name="remove_video">Quitar vídeo</string>
   <string name="replace">Cambiar</string>
   <string name="replace_image">Cambiar imagen</string>
-  <string name="reply_button_msg">Reply</string>
+  <string name="reply_button_msg">Responder</string>
   <string name="resent_message">Reenviar</string>
   <string name="resize_image_error_information">Esta foto es demasiado grande para enviar, incluso al cambiar de tamaño.</string>
   <string name="resource_price_free">Gratis</string>
@@ -523,14 +520,13 @@
   <string name="send_message_dlg_check_hint">No mostrar de nuevo</string>
   <string name="send_message_dlg_mgs">Notificación de CMCC: Necesitamos registrar su dispositivo en nuestra plataforma de administración de dispositivos para proporcionar servicios y soporte de atención al cliente gratuitos. Esta plataforma CMCC gestiona los dispositivos móviles y le permite cambiar los ajustes y actualizar el software de forma remota. Se enviará un mensaje de texto gratuito con la información acerca de su dispositivo para su registro. El mensaje sólo se enviará una vez y no contendrá sus datos personales. Este mensaje no puede ser enviado por clientes de Hong Kong, Macao, Taiwán y en el extranjero. Seleccione \ "Aceptar \" para aceptar y registrar su dispositivo. Seleccione \ "Cancelar" si no está de acuerdo con los términos. Los servicios no se le proporcionarán en este caso.</string>
   <string name="send_message_dlg_title">Administración de dispositivos</string>
-  <string name="send_message_notification_msg">Pulse para ver detalles.</string>
+  <string name="send_message_notification_msg">Toque para ver detalles.</string>
   <string name="send_message_notification_tickerText">Solicitando permiso</string>
   <string name="send_message_notification_title">Permiso solicitado</string>
   <string name="send_signature_confirm_dialog_message">No hay contenido. Enviar solo su firma?</string>
   <string name="send_signature_confirm_dialog_title">Enviar mensaje?</string>
   <string name="send_sms">Enviar mensaje</string>
   <string name="send_to">Para:</string>
-  <string name="send_to_index_contact">%1$s%2$s</string>
   <string name="sent_at_time">Enviado a: %1s</string>
   <string name="sent_label">"Enviado: "</string>
   <string name="service_message_not_found">Mensaje expirado o no disponible</string>
